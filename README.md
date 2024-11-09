@@ -7,14 +7,19 @@
 Language : 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=white)
+
 
 Tool : 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+DB : 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
 ## 🔭 GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeochi1201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&layout=compact&theme=dracula&hide=shaderLab,HLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&theme=dracula&hide=shaderLab,HLSL)
 
 
 <div>
