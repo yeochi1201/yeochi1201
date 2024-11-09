@@ -17,7 +17,7 @@ DB :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeochi1201)](https://solved.ac/yeochi1201)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeochi1201)](https://solved.ac/yeochi1201)
 
 ## 🔭 GitHub
 
