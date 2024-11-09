@@ -16,9 +16,12 @@ Tool :
 DB : 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeochi1201)](https://solved.ac/yeochi1201)
+
 ## 🔭 GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeochi1201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeochi1201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&exclude_repo=EnterTheGungeon_DEMO)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&theme=dracula&hide=shaderLab,HLSL)
 
 
