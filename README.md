@@ -14,7 +14,7 @@ Tool :
 ## 🔭 GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeochi1201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&layout=compact&theme=dracula&hide=shaderLab,HLSL)
 
 
 <div>
