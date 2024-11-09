@@ -16,13 +16,13 @@ Tool :
 DB : 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ducl5367)](https://solved.ac/ducl5367)
 
-## 🔭 GitHub
+
+## 🔭 Explore
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeochi1201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&exclude_repo=EnterTheGungeon_DEMO)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeochi1201&theme=dracula&hide=shaderLab,HLSL)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ducl5367)](https://solved.ac/ducl5367)
 
 
 <div>
